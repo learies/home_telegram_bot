@@ -19,8 +19,5 @@ $ sourch venv/bin/activate
 (venv)$ pip install -r requirements.txt
 ```
 ```bash
-(venv)$ export FLASK_APP=homebot.py
-```
-```bash
-(venv)$ flask run
+(venv)$ python3 homebot.py
 ```
